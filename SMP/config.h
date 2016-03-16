@@ -1,7 +1,4 @@
 
-/* Define to 1 if you want to include debug code in the library */
-#define DEBUG 1
-
 /* Define to 1 if you have the <asm/page.h> header file. */
 /* #undef HAVE_ASM_PAGE_H */
 
