@@ -102,7 +102,7 @@
       <DisableSpecificWarnings>4005;4996;4018;4028;4273;4244;%(DisableSpecificWarnings)</DisableSpecificWarnings>
       <InterproceduralOptimization>SingleFile</InterproceduralOptimization>
       <ProgramDataBaseFileName>$(OutDir)\lib\Win32\$(TargetName).pdb</ProgramDataBaseFileName>
-      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <DebugInformationFormat>OldStyle</DebugInformationFormat>
     </ClCompile>
     <Link>
